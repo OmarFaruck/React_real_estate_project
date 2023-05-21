@@ -1,0 +1,53 @@
+div#populartext h3 {
+    color: orange;
+    font-size: 2.1rem;
+    font-weight: 600;
+}
+div#populartext h1 {
+    color: #1f3e72;
+    font-weight: 700;
+    font-size: 2.5rem;
+    margin-bottom: 35px;
+}
+div#populartext {
+    margin-top: 23px;
+    padding-bottom: 30px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 425px){
+    div#populartext h3 {
+        text-align: center; 
+    }
+    div#populartext h1 {
+        text-align: center; 
+        font-size: 30px !important;
+    }
+}
+@media screen and (min-width: 425px) and (max-width: 768px){
+    div#populartext h3 {
+        text-align: center; 
+    }
+    div#populartext h1 {
+        text-align: center;  
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px){
+    div#populartext h3 {
+        text-align: center; 
+    }
+    div#populartext h1 {
+        text-align: center;  
+    }
+}
+@media screen and (min-width: 1024px) and (max-width: 1200px){
+    div#populartext h3 {
+        text-align: center; 
+    }
+    div#populartext h1 {
+        text-align: center;  
+    }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1440px){
+  
+}

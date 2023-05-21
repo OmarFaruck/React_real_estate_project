@@ -1,0 +1,35 @@
+.Contacttext p {
+    text-align: center;
+    color: orange;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.Contacttext h6 {
+    text-align: center;
+    color: #8c8b8b; 
+    font-weight: 700;
+}
+
+@media screen and (min-width: 320px) and (max-width: 425px){
+    
+}
+@media screen and (min-width: 425px) and (max-width: 768px){
+    
+}
+@media screen and (min-width: 768px) and (max-width: 1024px){
+    .Contacttext p { 
+        font-size: 12px !important;
+    }
+}
+@media screen and (min-width: 1024px) and (max-width: 1200px){
+    .Contacttext p { 
+        font-size: 19px !important;
+    }
+    .Contacttext h6 {
+        font-size: 15px !important; 
+    }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1440px){
+  
+}

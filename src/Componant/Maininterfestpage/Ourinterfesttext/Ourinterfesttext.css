@@ -1,0 +1,74 @@
+.Ourinterfest_text h4 {
+    color: orange;
+    font-size: 2.1rem;
+    font-weight: 600;
+}
+.Ourinterfest_text h2 {
+    color: #1f3e72;
+    font-weight: 700;
+    font-size: 2rem;
+}
+.Ourinterfest_text p {
+    color: #8c8b8b; 
+}
+.Ourinterfest_text {
+    margin-left: 30px;
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 425px){
+    .Ourinterfest_text h4 {
+        text-align: center;
+        margin-top: 16px;
+    }
+    .Ourinterfest_text h2 {
+        text-align: center; 
+        font-size: 29px !important;
+    }
+    .Ourinterfest_text p {
+        text-align: center; 
+        font-size: 10px !important;
+    }
+}
+@media screen and (min-width: 425px) and (max-width: 768px){
+    .Ourinterfest_text h4 {
+        text-align: center;
+        margin-top: 16px;
+    }
+    .Ourinterfest_text h2 {
+        text-align: center; 
+    }
+    .Ourinterfest_text p {
+        text-align: center; 
+        font-size: 12px !important;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px){
+    .Ourinterfest_text h4 {
+        text-align: center;
+    }
+    .Ourinterfest_text h2 {
+        text-align: center; 
+    }
+    .Ourinterfest_text p {
+        
+    font-size: 12px !important;
+        text-align: center; 
+    }
+}
+@media screen and (min-width: 1024px) and (max-width: 1200px){
+    .Ourinterfest_text h4 {
+        text-align: center;
+        
+    }
+    .Ourinterfest_text h2 {
+        text-align: center; 
+    }
+    .Ourinterfest_text p {
+        text-align: center; 
+    }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1440px){
+  
+}

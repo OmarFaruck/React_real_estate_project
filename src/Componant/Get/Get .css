@@ -1,0 +1,20 @@
+.Getstarted h1 {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.Getstarted h5 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.Getstarted {
+    padding-bottom: 30px;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    background-color: #4161DF; 
+    color: white;
+}
+button.Gets.btn.btn-primary {
+    border: 2px solid white;
+}

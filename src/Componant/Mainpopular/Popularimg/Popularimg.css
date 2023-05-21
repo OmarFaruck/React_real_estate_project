@@ -1,0 +1,23 @@
+span.doller {
+    font-weight: 700;
+    color: orange;
+    font-size: 27px;
+    margin-right: 10px;
+}
+.card-title.h5 {
+    color: #8c8b8b; 
+}
+p.cardtext.card-text {
+    color: #1f3e72;
+    font-weight: 700;
+    font-size: 1.4rem;
+}
+p.card-text {
+    font-size: 12px;
+    color: #8c8b8b;
+}
+.card:hover {
+    background: linear-gradient(180deg,rgba(255,255,255,0) 0%,rgba(136,160,255,.46) 217.91%);
+    scale: 1.025;
+    cursor: pointer;
+}

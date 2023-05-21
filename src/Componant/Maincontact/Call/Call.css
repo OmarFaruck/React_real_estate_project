@@ -1,0 +1,17 @@
+.Card { 
+    padding: 1rem;
+    border: .8px solid rgba(128,128,128,.143);
+    border-radius: 5px;
+    gap: 1rem;
+    transition: all .3s ease-in;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.Contact_icon {
+    margin-bottom: 20px;
+    background-color: #EEEEFF;
+    padding: 6px;
+}
+svg.phone {  
+    font-size: 18px;
+}

@@ -1,0 +1,16 @@
+p.number {
+    color: white;
+    font-size: 31px;
+    display: flex;
+    font-weight: 600;
+}
+p.number_text {
+    color: #8c8b8b;
+    line-height: 0;
+}
+span.plus {
+    color: #FFA500;
+    font-size: 32px;
+    font-weight: 700;
+}
+ 
